@@ -18,7 +18,7 @@ import {
   Button
 } from 'react-native';
 import Swiper from 'react-native-swiper';
-import Icon from 'react-native-vector-icons/AntDesign';
+
 import IconFeather from 'react-native-vector-icons//Feather'
 import px2dp from '../../utils/index'
 
